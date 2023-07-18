@@ -1,1 +1,3 @@
 1. identify IP address of system
+
+RUN THE ATTACHED ANSWER BASH FILE WITH sudo
