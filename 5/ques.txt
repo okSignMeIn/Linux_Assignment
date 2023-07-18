@@ -1,0 +1,1 @@
+5. write bash script which takes filename as input and checks whether this file is present or not and output message accordingly.

@@ -1,0 +1,1 @@
+4. identify commands ran in history which may contain substring 'cd' or 'ls'

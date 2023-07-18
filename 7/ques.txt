@@ -1,0 +1,1 @@
+7. Identify all processes that have been running for more than 3 days period and terminate them.
