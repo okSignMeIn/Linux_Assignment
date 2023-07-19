@@ -2,11 +2,11 @@ All the questions given are present in their respective folders named as the que
 
 Commands used -
 
-  ifconfig - command-line tool used to display and configure network interfaces on Unix-based operating systems.
-  ps - report a snapshot of the current processes.
-  head - output the first part of files
-  tail - output the last part of files
-  grep - print lines that match patterns
-  du - estimate file space usage
-  if-else statement
-  for loop
+  **ifconfig** - command-line tool used to display and configure network interfaces on Unix-based operating systems.
+  **ps** - report a snapshot of the current processes.
+  **head** - output the first part of files
+  **tail** - output the last part of files
+  **grep** - print lines that match patterns
+  **du** - estimate file space usage
+  **if-else** statement
+  **for loop**
