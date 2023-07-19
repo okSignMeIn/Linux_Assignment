@@ -1,3 +1,3 @@
-#!usr/bin/bash
+#!/bin/bash
 
 history | grep -E 'cd|ls'
