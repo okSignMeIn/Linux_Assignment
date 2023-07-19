@@ -1,1 +1,3 @@
 2. store data of processes running into a csv file and print out 3rd line.
+
+PLEASE FIND THE FILE THAT NEEDS TO BE CREATED AFTER RUNNING THE SCRIPT BY THE NAME OF data.csv
