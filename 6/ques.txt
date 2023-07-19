@@ -1,0 +1,1 @@
+6. Find all files that are images or video with size greater than 10MB - recursively - list them out sorted.
